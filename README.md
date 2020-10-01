@@ -96,10 +96,10 @@ Me puedes contactar por los siguientes canales o comunidades, siempre con el usu
 
 Twitter - [@enbonnet](https://twitter.com/enbonnet)\
 Telegram - [enbonnet](https://t.me/enbonnet)\
-Comunidad: [FrontEndCafe](https://twitter.com/FrontEndCafe) - Discord: https://discord.gg/upVNfu\
-Comunidad: [NodersJS](https://twitter.com/NodersJS) - Discord: https://discord.gg/TNgx8S\
-Comunidad: [TestingLib](https://twitter.com/TestingLib) - Discord: https://discord.gg/u3SUh3\
-Comunidad: [GatsbyJS](https://twitter.com/GatsbyJS) - Discord: https://discord.gg/cu4MDs\
+Comunidad: [FrontEndCafe](https://twitter.com/FrontEndCafe) - Discord: [https://discord.gg/upVNfu](https://discord.gg/upVNfu)\
+Comunidad: [NodersJS](https://twitter.com/NodersJS) - Discord: [https://discord.gg/TNgx8S](https://discord.gg/TNgx8S)\
+Comunidad: [TestingLib](https://twitter.com/TestingLib) - Discord: [https://discord.gg/u3SUh3](https://discord.gg/u3SUh3)\
+Comunidad: [GatsbyJS](https://twitter.com/GatsbyJS) - Discord: [https://discord.gg/cu4MDs](https://discord.gg/cu4MDs)
 
 
 
