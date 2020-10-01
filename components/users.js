@@ -5,7 +5,12 @@ export default function Users({ usersData, boxSizes }) {
     <>
       <div className="users">
         {usersData.map(({ username, color }) => (
-          <User username={username} color={color} boxSizes={boxSizes} />
+          <User
+            key={username}
+            username={username}
+            color={color}
+            boxSizes={boxSizes}
+          />
         ))}
       </div>
       <style jsx>{`
