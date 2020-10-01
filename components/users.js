@@ -4,9 +4,9 @@ export default function Users({ usersData, boxSizes }) {
   return (
     <>
       <div className="users">
-        {usersData.map(({ username, color }) => (
+        {usersData.map(({ username, color }, index) => (
           <User
-            key={username}
+            key={`${username}-${index}`}
             username={username}
             color={color}
             boxSizes={boxSizes}
