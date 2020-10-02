@@ -20,15 +20,17 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## Tu primer PR!
+## Tu primer PR(Pull Request)!
 
-Como sabes durante todo octubre se lleva a cabo el [Hacktoberfest](https://hacktoberfest.digitalocean.com/) un evento que nos motiva a realizar aportes en codigo Open Source.
+Comienza octubre y se lleva a cabo el [hacktoberfest](https://hacktoberfest.digitalocean.com/) un evento que nos motiva a realizar aportes en codigo Open Source.
 
-En esta edicion puedes ganar una polera o un plantar un arbol, para acceder a estos premios solo necesitas completar 4 pull request validos entre el 1 y el 31 de octubre. Los PR deben ser en repositorios publicos (como este) en esta oportunidad tambien hay premios especiales para los primeros 70,000 en completar el reto.
+En esta edicion puedes ganar una polera o plantar un arbol, para acceder a estos premios solo necesitas completar 4 pull request validos entre el 1 y el 31 de octubre. Los PR deben ser en repositorios publicos (como este) en esta oportunidad tambien hay premios especiales para los primeros 70,000 en completar el reto.
 
 En este proyecto queremos ayudarte a realizar tu primera contribucion al codigo abierto (Open Source), para esto presta atencion a los pasos para contribuir a continuacion.
 
 Siguiendo estos pasos podras contribuir de forma divertida, agregando tu nombre de usuario de github al archivo `data/usersStorage.json` esto generara un color unico por cada usuario que podras ver en el index de la aplicacion.
+
+Recuerda registrarte en el pagina oficial del [hacktoberfest](https://hacktoberfest.digitalocean.com/login) alli podras ver tus PR y los avances que tengas.
 
 Espero que te diviertas!
 
