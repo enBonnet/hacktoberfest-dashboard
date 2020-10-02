@@ -68,6 +68,7 @@ yarn install
 ```sh
 yarn dev
 ```
+4. Ve el proyecto en [http://localhost:3000](http://localhost:3000)
 
 
 ### Construido con
