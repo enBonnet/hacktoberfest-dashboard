@@ -60,7 +60,7 @@ git clone https://github.com/enBonnet/hacktoberfest-dashboard.git
 ```
 2. Instalar los modulos
 ```sh
-yarn
+yarn install
 ```
 3. Ejecuta el proyecto
 ```sh
