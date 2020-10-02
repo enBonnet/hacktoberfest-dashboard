@@ -124,4 +124,4 @@ Link del proyecto: [https://github.com/enBonnet/hacktoberfest-dashboard](https:/
 [issues-shield]: https://img.shields.io/github/issues/enBonnet/hacktoberfest-dashboard.svg?style=flat-square
 [issues-url]: https://github.com/enBonnet/hacktoberfest-dashboard/issues
 [license-shield]: https://img.shields.io/github/license/enBonnet/hacktoberfest-dashboard.svg?style=flat-square
-[license-url]: https://github.com/enBonnet/hacktoberfest-dashboard/blob/master/LICENSE.txt
+[license-url]: https://github.com/enBonnet/hacktoberfest-dashboard/blob/main/LICENSE
