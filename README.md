@@ -51,7 +51,7 @@ Espero que te diviertas!
 
 
 ### Dependencias
-* nodejs > 10 - [instalar node](https://nodejs.org/en/)\
+* nodejs > 10 - [instalar node](https://nodejs.org/en/)
 * yarn - [instalar yarn](https://classic.yarnpkg.com/en/docs/install)
 
 ### Ejecutar proyecto
