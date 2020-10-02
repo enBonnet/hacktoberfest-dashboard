@@ -50,7 +50,9 @@ Espero que te diviertas!
 9. Crear un Pull Request desde tu proyecto a este proyecto y espera a que sea aprobado!
 
 
-
+### Dependencias
+* nodejs > 10 - [instalar node](https://nodejs.org/en/)\
+* yarn - [instalar yarn](https://classic.yarnpkg.com/en/docs/install)
 
 ### Ejecutar proyecto
 
