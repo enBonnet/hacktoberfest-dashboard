@@ -41,7 +41,7 @@ Espero que te diviertas!
 
 1. Crear un fork de este proyecto (puedes hacer click en el boton arriba a la derecha "Fork")
 2. Clona el fork en tu computador. (`git clone git@github.com:[tu_nombre_de_usuario]/hacktoberfest-dashboard.git`)
-3. Crea una rama nueva (`git switch -c new-username/[tu_nombre_de_usuario]`)
+3. Crea una rama nueva (`git checkout -b new-username/[tu_nombre_de_usuario]`)
 4. Actualiza el archivo `data/usersStorage.json` y agrega tu nombre de usuario en github (te recomiendo que sea al final)
 5. Crear un commit con tus cambios (`git commit -m 'agregando un nombre de usuario'`)
 6. Haz push a tu proyecto (`git push origin new-username/[tu_nombre_de_usuario]`)
