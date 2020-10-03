@@ -8,10 +8,16 @@ const usersDataMock = [
     username: "enbonnet",
   },
   {
-    username: "enbonnet1",
+    username: "jhonneycp",
   },
   {
-    username: "enbonnet2",
+    username: "k3ev",
+  },
+  {
+    username: "angelopez10",
+  },
+  {
+    username: "sebasacuna",
   },
 ];
 
@@ -23,9 +29,13 @@ describe("Users component", () => {
     expect(getByTestId(usersDataMock[0].username)).toBeInTheDocument();
     expect(getByTestId(usersDataMock[1].username)).toBeInTheDocument();
     expect(getByTestId(usersDataMock[2].username)).toBeInTheDocument();
+    expect(getByTestId(usersDataMock[3].username)).toBeInTheDocument();
+    expect(getByTestId(usersDataMock[4].username)).toBeInTheDocument();
     expect(getByText(usersDataMock[0].username)).toBeInTheDocument();
     expect(getByText(usersDataMock[1].username)).toBeInTheDocument();
     expect(getByText(usersDataMock[2].username)).toBeInTheDocument();
+    expect(getByText(usersDataMock[3].username)).toBeInTheDocument();
+    expect(getByText(usersDataMock[4].username)).toBeInTheDocument();
   });
 
   it("renders without crashing with real users", () => {
