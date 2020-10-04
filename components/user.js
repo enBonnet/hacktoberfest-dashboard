@@ -6,7 +6,11 @@ export default function User({ username, color, boxSizes }) {
       </div>
       <style jsx>{`
         .user {
-          background-color: #${color}};
+          background: linear-gradient(#${color} 100%, #${color} 100%),
+            url("https://avatars.githubusercontent.com/${username}") 50% 50%
+              no-repeat;
+          background-size: 90px 90px;
+          background-blend-mode: color;
           content: " ";
           min-height: ${boxSizes};
         }
