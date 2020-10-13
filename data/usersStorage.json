@@ -1,37 +1,40 @@
 {
-	"users": [
-		{
-			"username": "enbonnet"
-		},
-		{
-			"username": "jhonneycp"
-		},
-		{
-			"username": "k3ev"
-		},
-		{
-			"username": "angelopez10"
-		},
-		{
-			"username": "lporras"
-		},
-		{
-			"username": "sebasacuna"
-		},
-		{
-			"username": "AlvaroAlmonacid"
-		},
-		{
-			"username": "jtr2809"
-		},
-		{
-			"username": "cinsanchez"
-		},
-		{
-			"username": "lcjury"
-		},
-		{
+  "users": [
+    {
+      "username": "enbonnet"
+    },
+    {
+      "username": "jhonneycp"
+    },
+    {
+      "username": "k3ev"
+    },
+    {
+      "username": "angelopez10"
+    },
+    {
+      "username": "lporras"
+    },
+    {
+      "username": "sebasacuna"
+    },
+    {
+      "username": "AlvaroAlmonacid"
+    },
+    {
+      "username": "jtr2809"
+    },
+    {
+      "username": "cinsanchez"
+    },
+    {
+      "username": "lcjury"
+    },
+    {
+      "username": "JSantiago88"
+    },
+ 		{
 			"username": "ThreeHDM"
 		}
-	]
+  ]
 }
