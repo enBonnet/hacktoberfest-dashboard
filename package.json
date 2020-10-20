@@ -27,7 +27,7 @@
     ]
   },
   "devDependencies": {
-    "@testing-library/dom": "7.24.3",
+    "@testing-library/dom": "7.26.3",
     "@testing-library/jest-dom": "5.11.4",
     "@testing-library/react": "11.0.4",
     "babel-jest": "26.6.0",
